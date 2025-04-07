@@ -1,5 +1,5 @@
 PKG_NAME := minizip-ng
-URL = https://github.com/zlib-ng/minizip-ng/archive/refs/tags/4.0.8.tar.gz
+URL = https://github.com/zlib-ng/minizip-ng/archive/4.0.9/minizip-ng-4.0.9.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
