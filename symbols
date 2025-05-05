@@ -41,6 +41,7 @@ libminizip.so.1:mz_os_get_file_attribs
 libminizip.so.1:mz_os_get_file_date
 libminizip.so.1:mz_os_get_file_size
 libminizip.so.1:mz_os_is_dir
+libminizip.so.1:mz_os_is_dir_separator
 libminizip.so.1:mz_os_is_symlink
 libminizip.so.1:mz_os_make_dir
 libminizip.so.1:mz_os_make_symlink
